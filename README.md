@@ -21,7 +21,7 @@ For the Visual Graph Analysis, I normalized the average yearly income of teacher
 </div>
 
 <div id="imageContainer" style="margin-top: 20px;">
-  <img id="image1" src="../Teacher_Salary_Analysis/Graphs/normalizedteacherpayvscostofliving.png" style="display: none; width: 100%; max-width: 500px;" />
+  <img id="image1" src="../Graphs/normalizedteacherpayvscostofliving.png" style="display: none; width: 100%; max-width: 500px;" />
   <img id="image2" src="path_to_image2.jpg" style="display: none; width: 100%; max-width: 500px;" />
   <img id="image3" src="path_to_image3.jpg" style="display: none; width: 100%; max-width: 500px;" />
   <img id="image4" src="path_to_image4.jpg" style="display: none; width: 100%; max-width: 500px;" />
