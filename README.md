@@ -45,3 +45,7 @@ Graph showcasing the normalized anual mean income of a teacher per state vs the 
 [Normalized Annual Mean Salary (USD) vs Cost of Utilities Index by State](/Graphs/normalizedteacherpayvscostofutilities.png)
 
 Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of utilities per state.
+
+## Results of Visual Graph Analysis
+
+Considering all of the graphs shown above, it can be concluded that the state of Hawaii has a problem when it comes to the difference between the cost of living and the anual mean income of teachers. Most states have no problem providing a liveable salary to their teachers, however states like Arkansas, Colorado, Florida, Idaho, Kentucky, Louisiana, Maine, Missouri, Montana, New Hampshire, North Carolina, North Dakota, South Carolina, South Dakota, West Virginia and the aforementioned Hawaii cannot provide an average life, economically speaking, for their teachers. Obviously, context is not taken into consideration when it comes to the conclusion above, however it is still interesting to observe. On the other side, the top 5 states when it comes to making their teachers lifes' easier form an economical stand point are New York, Washington, California, Illinois and Conneticut. Again, these are simple observations without context, which can lead to bias. There are many more conclusions that can be taken from the data showcased, these are simply some of the main points.
