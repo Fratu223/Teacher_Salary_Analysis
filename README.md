@@ -14,9 +14,34 @@ For the Visual Graph Analysis, I normalized the average yearly income of teacher
 
 Graph showcasing the anual mean income of a teacher per state.
 
-[View Image 2](path_to_image2.jpg)  
-[View Image 3](path_to_image3.jpg)  
-[View Image 4](path_to_image4.jpg)  
-[View Image 5](path_to_image5.jpg)  
-[View Image 6](path_to_image6.jpg)  
-[View Image 7](path_to_image7.jpg)
+[Cost of Living Index](/Graphs/costoflivingindex.png)
+
+Graph showcasing the cost of living per state.
+
+[Normalized Annual Mean Salary (USD) vs Cost of Living Index by State](/Graphs/normalizedteacherpayvscostofliving.png)
+
+Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of living per state.
+
+[Normalized Annual Mean Salary (USD) vs Cost of Grocery Index by State](/Graphs/normalizedteacherpayvscostofgrocery.png)
+
+Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of groceries per state.
+
+[Normalized Annual Mean Salary (USD) vs Cost of Health Index by State](/Graphs/normalizedteacherpayvscostofhealth.png)
+
+Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of health per state.
+
+[Normalized Annual Mean Salary (USD) vs Cost of Housing Index by State](/Graphs/normalizedteacherpayvscostofhousing.png)
+
+Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of housing per state.
+
+[Normalized Annual Mean Salary (USD) vs Cost of Miscellaneous Index by State](/Graphs/normalizedteacherpayvscostofmiscellaneous.png)
+
+Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of miscellaneous per state.
+
+[Normalized Annual Mean Salary (USD) vs Cost of Transportation Index by State](/Graphs/normalizedteacherpayvscostoftransportation.png)
+
+Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of transportation per state.
+
+[Normalized Annual Mean Salary (USD) vs Cost of Utilities Index by State](/Graphs/normalizedteacherpayvscostofutilities.png)
+
+Graph showcasing the normalized anual mean income of a teacher per state vs the normalized cost of utilities per state.
