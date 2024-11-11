@@ -5,3 +5,7 @@ This repo is for an analysis of the average teacher salary in the united states 
 - Cost of Living Data: [World Population Review Cost of Living Index](https://worldpopulationreview.com/state-rankings/cost-of-living-index-by-state)
 
 - Teacher Salary Data: [World Population Review Teacher Pay](https://worldpopulationreview.com/state-rankings/teacher-pay-by-state)
+
+## Visual Graph Analysis
+
+For the Visual Graph Analysis, I normalized the average yearly income of teachers by state and the cost of living index in general and for different categories (groceries, health, housing, miscellaneous, transportation, utilities) and compared them.
